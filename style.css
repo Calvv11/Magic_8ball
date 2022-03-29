@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+}
+
+.magicball {
+    height: 700px;
+    width: 700px;
+    margin-top: 300px;
+    margin-left: 900px;
+}
